@@ -1,0 +1,47 @@
+﻿  prx.cpp
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(129,13): warning 552: variable "r" was set but never used
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(304,20): warning 118: non-void function "Vector3::Normalize" should return a value
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(474,20): warning 118: non-void function "Vector2::Normalize" should return a value
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(569,17): warning 1778: argument type is implicitly converted to parameter of type "int"
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(569,22): warning 1778: argument type is implicitly converted to parameter of type "int"
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(581,17): warning 1778: argument type is implicitly converted to parameter of type "int"
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(581,26): warning 1778: argument type is implicitly converted to parameter of type "int"
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(659,34): warning 1628: argument of type "unsigned long long" is incompatible with parameter (1 of sys_rsx_context_attribute) of type "std::uint32_t"
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(994,5): warning 1773: implicitly converting a value of type "float" to an entity of type "std::int16_t" in an assignment
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(995,5): warning 1773: implicitly converting a value of type "float" to an entity of type "std::int16_t" in an assignment
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(1030,15): warning 1067: conversion from integer to smaller pointer
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(1090,17): warning 1772: argument of type "float" is implicitly converted to parameter (2 of print_text) of type "std::int32_t"
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(1954,6): warning 938: redeclaration of enum "Menu::Alignment" alters its access
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(2316): warning 942: missing return statement at end of non-void function "MY_cellPadGetData"
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(2485,39): warning 68: integer conversion resulted in a change of sign
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(2518): warning 942: missing return statement at end of non-void function "_gcm_stuff_prx_entry"
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(2516,18): warning 178: variable "ps3_menu_thread_2" was declared but never referenced
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(747,30): warning 552: variable "mc_app" was set but never used
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(2486,12): warning 178: variable "done" was declared but never referenced
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(2491,19): warning 178: function "_sys_ppu_thread_exit2" was declared but never referenced
+  
+D:\Drew's Stuff\PS3 MODDING\Break_n_Make\NFS\gcm_testing\gcm_testing\prx.cpp(2499,27): warning 178: function "prx_get_module_id_by_address" was declared but never referenced
+  
+  ppu-lv2-prx-libgen.exe: Not found PSP/PS3 PRX link data(module info & export info) in "C:/Users/Drew/AppData/Local/Temp/ps3ppuld184442/psp.rela.o"
+  ps3ppuld 400.1.4646.0 (rel,ps3,400.1,common,src @124681 ) C:\usr\local\cell\host-win32\sn\bin\ps3ppuld32.exe
+Command line : error : L0303: error generating PRX (prx-libgen failed)
+Command line : error : L0064: Linking aborted
