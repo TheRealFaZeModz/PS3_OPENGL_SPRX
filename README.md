@@ -8,3 +8,8 @@ gcm_testing project is the GCM Source / research created for use in other method
 Both projects utilize the Playstation 3's on board graphics and memory. 
 
 Use at your own risk. ~ FaZe Modz
+
+Additional Credits:
+theRouletteboi
+gopro_2027
+BadLuckBrian
